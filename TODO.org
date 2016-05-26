@@ -1,0 +1,2 @@
+* TODO Create object model
+* TODO Create Django for migrate sample db
